@@ -2,7 +2,7 @@
 
 :root {
   --clr-primary-blue: hsl(243, 87%, 12%);
-  --clr-primary-darkblue: red;
+  --clr-primary-darkblue: hsl(238, 22%, 44%);
 
   --clr-accent-blue: hsl(224, 93%, 58%);
   --clr-accent-cyan: hsl(170, 45%, 43%);
